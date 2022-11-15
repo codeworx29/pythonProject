@@ -1,0 +1,2 @@
+xp = int(input('How many points do you have?'))
+print('Thats great!',xp,'points is a true accomplishment.')
